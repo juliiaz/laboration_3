@@ -97,6 +97,10 @@ header a {
     margin-bottom: 0px;
 }
 
+.activities article p {
+    margin-top: 0px;
+}
+
 .plan {
     text-align: center;
 }
