@@ -111,13 +111,22 @@ footer {
     background-color: lab(80.81% -4.55 2.91);
 }
 
+footer h2 {
+    margin-bottom: 0px;
+}
+
 footer img {
-    width: 60px;
+    width: 70px;
+    margin-top: 20px;
 }
 
 .footer-links {
     display: flex;
     justify-content: space-around;
+}
+
+.footer-links a {
+    color: black;
 }
 
 .footer-links p {
@@ -129,6 +138,7 @@ footer img {
     display: flex;
     flex-direction: column;
     text-align: left;
+    padding-bottom: 30px;
 }
 
 .hero a,
