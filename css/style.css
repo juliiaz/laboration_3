@@ -81,3 +81,12 @@ header a {
 .activities article h3 {
     margin-bottom: 0px;
 }
+
+.plan {
+    text-align: center;
+}
+
+.plan p {
+    max-width: 400px;
+    margin: 0 auto;
+}
