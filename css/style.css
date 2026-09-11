@@ -55,3 +55,29 @@ header a {
     margin: 0 auto;
     margin-bottom: 20px;
 }
+
+.activities {
+   text-align: center;
+}
+
+.activities article {
+    width: 300px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.activities article img {
+    width: 500px;
+}
+
+.activities article h3,
+.activities article p {
+    width: 100%;
+    text-align: left;
+}
+
+.activities article h3 {
+    margin-bottom: 0px;
+}
