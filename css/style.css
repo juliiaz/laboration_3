@@ -176,4 +176,22 @@ footer img {
 
 @media (min-width: 768px) {
 
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 400px;
+}
+    header nav {
+        flex-direction: row;
+        margin: 0;
+        gap: 25px;
+    }
+
+    .nav-border {
+        border-bottom: none;
+    }
+
+
+
 }
