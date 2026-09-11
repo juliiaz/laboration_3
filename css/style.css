@@ -90,3 +90,28 @@ header a {
     max-width: 400px;
     margin: 0 auto;
 }
+
+footer {
+    text-align: center;
+    background-color: hsl(128, 12%, 63%);
+}
+
+footer img {
+    width: 60px;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-links p {
+    text-align: left;
+    margin-bottom: 1px;
+}
+
+.footer-links nav {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
