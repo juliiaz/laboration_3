@@ -223,6 +223,27 @@ header {
     justify-content: center;
 }
 
+.plan {
+    text-align: left;
+    padding-left: 80px;
+    position: relative;
+}
+
+.plan p {
+        margin: 0;
+        max-width: 500px;
+        
+    }
+
+.plan h2 {
+    margin-bottom: 0px;
+}
+
+.plan-link {
+    position: absolute;
+    top: 20px;
+    right: 100px;
+}
 
 
 }
