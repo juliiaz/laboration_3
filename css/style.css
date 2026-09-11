@@ -212,6 +212,14 @@ header {
     color: black;
 }
 
+.intro p {
+    max-width: 700px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+
+
 
 
 
