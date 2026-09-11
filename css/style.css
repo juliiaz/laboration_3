@@ -218,8 +218,10 @@ header {
     margin-bottom: 20px;
 }
 
-
-
+.cards-container {
+    display: flex;
+    justify-content: center;
+}
 
 
 
